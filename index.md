@@ -6,4 +6,4 @@ My name is Finn Beckitt-Marshall. I am currently studying for an MEng degree in 
 
 ## Projects
 
-[ESP32EnvMonitor.md](ESP32 Environment Monitor)
+[ESP32 Environment Monitor](ESP32EnvMonitor.md)
