@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Welcome to fbm3334's homepage!
+
+include:
+  - ESP32EnvMonitor.md
