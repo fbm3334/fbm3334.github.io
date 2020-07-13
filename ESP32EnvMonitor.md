@@ -12,14 +12,14 @@ The project uses WebSockets to communicate with the client devices to send the r
 
 2. An iOS application to view the data on an iOS/iPadOS device. This supports devices running iOS 13.0 or newer (iPhone 6S, iPad Air 2, iPad Mini 4 and iPod touch 7th generation or newer), and (as of July 2020) has most of the features of the web interface.
 
-## GitHub repositories
+## Repositories
 
 The code is contained within two GitHub repositories:
 
 - ESP32 and HTML files - [ESP32_EnvironmentMonitor](https://github.com/fbm3334/ESP32_EnvironmentMonitor)
 - iOS code - [ESP32-Environment-Monitor-iOS](https://github.com/fbm3334/ESP32-Environment-Monitor-iOS)
 
-## Hardware setup
+## Hardware setup
 
 See [ESP32 Hardware Setup](ESP32HWSetup.md).
 
@@ -27,6 +27,6 @@ See [ESP32 Hardware Setup](ESP32HWSetup.md).
 
 See [ESP32 Software Setup](ESP32SWSetup.md).
 
-## iOS software setup
+## iOS software setup
 
 See [iOS Software Setup](EnvMoniOSSetup.md).
