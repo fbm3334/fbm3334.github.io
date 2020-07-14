@@ -1,6 +1,6 @@
 # Setting up the Environment Monitor app on iOS
 
-## Prerequisites
+## Prerequisites
 
 As this app is only a personal project at the moment, I have decided not to publish it on the Apple App Store for now. This means it needs to be sideloaded using the correct hardware:
 
@@ -11,7 +11,7 @@ As this app is only a personal project at the moment, I have decided not to publ
   - iPod touch 7th generation or newer
 - A Mac running macOS Mojave 10.14.4 or newer, as well as Xcode 11 or newer
 
-## Installation instructions
+## Installation instructions
 
 1. Clone the [GitHub repository](https://github.com/fbm3334/ESP32-Environment-Monitor-iOS) onto your Mac.
 2. Open Xcode, and navigate to the project folder. Open the "ESP32 Environment Monitor.xcodeproj" file in Xcode, which should open the project.
