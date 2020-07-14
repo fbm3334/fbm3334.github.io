@@ -1,12 +1,12 @@
 # ESP32 Software Setup
 
-## Prerequisites
+## Prerequisites
 
 - [PlatformIO](https://platformio.org) is required in order to install the software on the ESP32.
 - A microSD card is required to save the HTML and CSS files.
 - You will need a terminal emulation program such as [CoolTerm](https://freeware.the-meiers.org) in order set up the WiFi network - the baud rate is 115200.
 
-## Installation instructions
+## Installation instructions
 
 1. Clone the [repository](https://github.com/fbm3334/ESP32_EnvironmentMonitor) into your PlatformIO projects folder.
 2. Import the project by going onto PIO Home/Projects/Add Existing within Visual Studio Code.
