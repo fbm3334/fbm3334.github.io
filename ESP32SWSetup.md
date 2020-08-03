@@ -14,6 +14,6 @@
 4. Copy index.html and style.css from the webdata folder onto the root directory of the microSD card.
 5. Configure the WiFi network by connecting the ESP32 to your PC and using your chosen terminal emulation program to follow the steps and connect to the network. **Make a note of your IP address as you will need this for the next step.**
 6. Using a web browser (most modern browsers will work), type the IP address into the address bar. You should get a screen similar to this:
-![Web interface screenshot](https://lh3.googleusercontent.com/Z6vCo0tBcz63fG-_OJhf6rupsg6Vfi0IJ0phYgvft4hVGBmRiidShhLyYO6O-FwAMSN12WjJv7fc90Hi2ryN1la9kP0skQYn9CsSAt8UnGJVTAe3TjX8qgCedbG87FB5Q4MzPFVihS7OCdxS1PR7uGckkxwEcU0W_9d4jTXHxmvaM-rNAYlB1doiWyfM5lDQPruBeBBt6sECh18t134zeuD5Ml_SEbwd3BKaYjE1ElwcC1rMV4WjWFJGluWr76CynIJP2mYrFBPZvpTp5_XkaZn2sI2HgwPsAlYbTNBF_xoEzZflTjbJiO0relD3nvLguph5fHA1kJLsOsb1m2C9j1AdKNmQht2sqq7EpUxw7cAtqv2nQ7rPexvOWWjbLeMQnrbDlaLac3GUL30ajyheleczPnJtgNDXI13dd6vGduKa5B0-wMLMqX_HpWGLP__stwQFEZV7tEUenmdj8Bisu4RT5bqDn1JCog1JELyl9GgDx0M0SXgEs31TLTol3zQMe1W4XMsaKs0-RyjNT9WTybkv3LHIXQIFGfG8gmKCrvUOo708XLdXslD2sCZa3onx4bfXFOeRkZzkoCwkMOTnmo_fTeRToWNnhn1agVeZBxo1_qSvjO2SF32eqAQNOSaaB3PN64fWgrBpdfXTcWbwFvRdHonugevtbHBMLYMRkrJWYz7vbhiYB-q38_PPNA=w790-h689-no?authuser=0 "Web interface screenshot")
+![Web interface screenshot](https://github.com/fbm3334/fbm3334.github.io/blob/master/images/Screenshot%202020-07-03%20at%2013.56.01.png "Web interface screenshot")
 
 Once you get to this point, you have successfully installed the ESP32 Environment Monitor software.
