@@ -2,7 +2,7 @@
 
 At the moment (as of mid June 2020), the project is in a prototype stage. I plan to work on a PCB design and finalised BOM in the future.
 
-## Parts used
+## Parts used
 
 - Espressif ESP32-DEVKITC-32D development board (the ESP32-DEVKITC-32U can be used too, as the only difference is that it uses an external antenna rather than an integrated one)
 - microSD SPI breakout board + microSD card (I believe there are compatibility issues with SDXC cards, so SDHC cards will work better)
