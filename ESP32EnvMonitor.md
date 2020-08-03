@@ -19,7 +19,7 @@ The code is contained within two GitHub repositories:
 - ESP32 and HTML files - [ESP32_EnvironmentMonitor](https://github.com/fbm3334/ESP32_EnvironmentMonitor)
 - iOS code - [ESP32-Environment-Monitor-iOS](https://github.com/fbm3334/ESP32-Environment-Monitor-iOS)
 
-## Libraries used
+## Libraries used
 
 The code uses external libraries - these are attributed here:
 
@@ -42,7 +42,7 @@ See [ESP32 Software Setup](ESP32SWSetup.md).
 
 See [iOS Software Setup](EnvMoniOSSetup.md).
 
-## Licensing
+## Licensing
 
 This work is licensed under the **MIT License.**
 
